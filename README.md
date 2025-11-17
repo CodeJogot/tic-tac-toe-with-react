@@ -3,6 +3,9 @@
 
 ![Tic Tac Toe Game](./src/assets/tic-tac-toe.png)
 
+# Splitting UI Into Components
+
+![Splitting UI](./src/assets/splitting%20ui.png)
 
 
 # React + Vite
